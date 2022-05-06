@@ -1,2 +1,2 @@
 # IDIoHMA
-European project sketch
+European project (under development)
